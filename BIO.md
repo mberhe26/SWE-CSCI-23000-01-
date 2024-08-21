@@ -1,2 +1,2 @@
-Name: Mastewal Berhe
+Name: Mastewal Berhe <br />
 Major: Computer Science
